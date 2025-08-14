@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Logo da Brava" width="250"/>
+  <img src="https://github.com/user-attachments/assets/36715e1a-16e5-4bdc-82bb-4dee8aa236c6" alt="Logo da Brava" width="250"/>
 </div>
 
 <h1 align="center">Brava</h1>
